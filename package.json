@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "test": "npx vitest run"
+    "test": "vitest run"
   },
   "dependencies": {
     "next": "16.1.6",
